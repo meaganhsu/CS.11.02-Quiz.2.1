@@ -21,7 +21,7 @@ public class Main {
 
 
         //add() method
-        /*System.out.println("\nEnter a number:");
+        System.out.println("\nEnter a number:");
         int a = userInput.nextInt();
         System.out.println("Enter a second number:");
         int b = userInput.nextInt();
@@ -30,7 +30,7 @@ public class Main {
         System.out.println("Enter a fourth number:");
         int d = userInput.nextInt();
         int resultThree = add(a,b,c,d);
-        System.out.println(resultThree); */
+        System.out.println(resultThree);
 
         //printMe() method
         userInput.nextLine();
